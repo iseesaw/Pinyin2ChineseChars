@@ -12,7 +12,7 @@
 
 - demo
 
-<img src="files/demo.gif" alt="demo" style="zoom:50%;" />
+<img src="files/demo.gif" alt="demo" style="zoom:33%;" />
 
 - 更多测试见 [files/trans_test.ipynb](files/trans_test.ipynb)
 
