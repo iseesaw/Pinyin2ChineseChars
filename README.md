@@ -1,6 +1,8 @@
 ## 基于Bigram+HMM的拼音汉字转换
 
-测试见[files/trans_test.ipynb](files/trans_test.ipynb)
+<img src="files/demo.gif" alt="demo" style="zoom:50%;" />
+
+更多长测试 [files/trans_test.ipynb](files/trans_test.ipynb)
 ![](files/test.jpg)
 
 ### corpus
