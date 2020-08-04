@@ -59,11 +59,13 @@ class HMM:
         return ''.join(w for w in words)
 
 
-'''
-HMM只考虑上一个字
-jiaohuaqiao
-xidazhijie
-'''
-# 测试
-# hmm = HMM()
-# print(hmm.trans('zhongwenxinxichuli'))
+if __name__ == '__main__':
+    '''
+    HMM只考虑上一个字
+    jiaohuaqiao
+    xidazhijie
+    '''
+    # 测试
+    hmm = HMM()
+    for _ in range(5):
+        print(hmm.trans(input('输入连续拼音（例如：nihao）：')))
