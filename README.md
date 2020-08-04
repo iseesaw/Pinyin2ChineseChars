@@ -1,4 +1,8 @@
 ## 基于Bigram+HMM的拼音汉字转换
+
+测试见[files/trans_test.ipynb](files/trans_test.ipynb)
+![](files/test.jpg)
+
 ### corpus
 包括训练集和测试集语料文件  
 peopelnews2018.txt 人民日报2018语料库（爬虫爬取）  
